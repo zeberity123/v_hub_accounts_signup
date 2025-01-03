@@ -3,7 +3,6 @@ from selenium.webdriver.common.by import By
 from time import sleep
 from selenium.webdriver.common.action_chains import ActionChains
 import pandas as pd
-import random
 
 accouts_excel = 'v_hub_accounts.xls'
 cols_accounts = [
